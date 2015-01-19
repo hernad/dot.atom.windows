@@ -1,0 +1,40 @@
+{
+  "name": "language-harbour",
+  "main": "./lib/language-harbour",
+  "version": "1.24.1",
+  "description": "harbour programming langugage",
+  "activationEvents": [
+    "language-harbour:toggle"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hernad/atom-language-harbour.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# language-harbour package\n\n[harbour language support](https://github.com/harbour/core) \n\n![A screenshot of your spankin' package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/hernad/atom-language-harbour/issues"
+  },
+  "homepage": "https://github.com/hernad/atom-language-harbour",
+  "_id": "language-harbour@1.24.1",
+  "dist": {
+    "shasum": "6ed7bcf0311890a001fbbe11a172c5b0b1fde972"
+  },
+  "_resolved": "C:\\Users\\vagrant\\AppData\\Local\\Temp\\d-115019-1876-7kph1o\\package.tgz",
+  "_from": "C:\\Users\\vagrant\\AppData\\Local\\Temp\\d-115019-1876-7kph1o\\package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
